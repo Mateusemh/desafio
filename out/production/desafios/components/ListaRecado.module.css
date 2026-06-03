@@ -1,0 +1,13 @@
+.principal {
+    background-color: aqua;
+    padding: 0%;
+    border-radius: 0%;
+}
+
+.recado {
+    border-color: grey;
+}
+
+.button {
+    color: red
+}
